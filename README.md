@@ -33,5 +33,5 @@ Before applying to Google AdSense:
 
 - Replace the placeholder publisher ID in `public/ads.txt`
 - Replace `hello@nisablantern.com` with your real monitored contact email
-- Update `public/sitemap.xml`, `public/robots.txt`, and `index.html` if your production domain is not `https://nisablantern.com`
+- Update `public/sitemap.xml`, `public/robots.txt`, and `index.html` if your production domain is not `https://nisab-lantern.vercel.app`
 - Keep HTTPS enabled at the host level; `public/_headers` adds HSTS/security headers for Cloudflare Pages

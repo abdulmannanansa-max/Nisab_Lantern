@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nisablantern.com/sitemap.xml
+Sitemap: https://nisab-lantern.vercel.app/sitemap.xml
