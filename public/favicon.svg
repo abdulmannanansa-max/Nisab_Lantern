@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nisab Lantern">
+  <rect width="64" height="64" rx="14" fill="#176c58"/>
+  <path d="M22 20h20l-3 8H25l-3-8Z" fill="#f7d889"/>
+  <path d="M25 28h14l4 22H21l4-22Z" fill="#fff8e9"/>
+  <path d="M29 13h6v7h-6z" fill="#f7d889"/>
+  <path d="M26 13c1.7-4 10.3-4 12 0" fill="none" stroke="#f7d889" stroke-width="4" stroke-linecap="round"/>
+  <path d="M32 33c4 4.2 5 8.7 0 12-5-3.3-4-7.8 0-12Z" fill="#c58a2d"/>
+  <path d="M22 50h20" stroke="#f7d889" stroke-width="4" stroke-linecap="round"/>
+</svg>
